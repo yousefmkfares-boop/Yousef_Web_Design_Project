@@ -170,5 +170,20 @@ footer p {
     table {
         font-size: 14px;
     }
+ .linkedin-link {
+    display: inline-block;
+    background-color: #0A66C2;
+    color: white;
+    padding: 12px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.linkedin-link:hover {
+    background-color: #004182;
+    transform: translateY(-3px);
+}
 }
 
